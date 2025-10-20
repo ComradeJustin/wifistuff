@@ -1,0 +1,1 @@
+A basic template to log into the network using iwd, you have to manually log in every time unless you add passwords to the file. I personally prefer not to store passwords in plaintext but its easy to add
